@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace Asim.Managers.TileManager
+namespace asim.unity.managers.tilemanager
 {
     /// <summary>
     /// Tilemanager controls multiple tilesets

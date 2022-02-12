@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Asim.Managers.TileManager
+namespace asim.unity.managers.tilemanager
 {
     /// <summary>
     /// Interface for a tile for tilemanager

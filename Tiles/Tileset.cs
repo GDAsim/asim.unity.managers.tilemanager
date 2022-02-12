@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Asim.Managers.TileManager
+namespace asim.unity.managers.tilemanager
 {
     /// <summary>
     /// Tileset represent a set a tiles

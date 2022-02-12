@@ -1,6 +1,6 @@
 {
   "name": "asim.unity.managers.tilemanager",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "displayName": "Asim TileManager",
   "description": "Asim TileManager",
   "unity": "2020.3",
@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/GDAsim/asim.unity.managers.tilemanager#readme",
   "dependencies": {
-    "asim.unity.extensions": "^0.1.1"
+    "asim.unity.extensions": "0.1.1"
   }
 }

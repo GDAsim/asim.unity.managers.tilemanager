@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Asim.Managers.TileManager
+namespace asim.unity.managers.tilemanager
 {
     /// <summary>
     /// Represent a simple tile in Unity that is either Passable or InPassableTile type

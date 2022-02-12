@@ -2,7 +2,7 @@
 
 using System.Collections.Generic;
 
-namespace Asim.Managers.TileManager
+namespace asim.unity.managers.tilemanager
 {
     public class SimpleTile_TileManager : TileManager<SimpleTile, SimpleTileset>
     {
