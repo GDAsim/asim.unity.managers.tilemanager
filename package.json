@@ -1,0 +1,36 @@
+{
+  "name": "asim.unity.managers.tilemanager",
+  "version": "0.1.0",
+  "displayName": "Asim TileManager",
+  "description": "Asim TileManager",
+  "unity": "2020.3",
+  "unityRelease": "26f1",
+  "keywords": [
+    "asim",
+    "unity",
+    "managers",
+    "manager",
+    "tile"
+  ],
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "Example of TileManager Usage",
+      "path": "Samples~/Examples"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDAsim/asim.unity.managers.tilemanager.git"
+  },
+  "author": "GDAsim <gamedevelopementasim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDAsim/asim.unity.managers.tilemanager/issues"
+  },
+  "homepage": "https://github.com/GDAsim/asim.unity.managers.tilemanager#readme",
+  "dependencies": {
+    "asim.unity.extensions": "^0.1.1"
+  }
+}
