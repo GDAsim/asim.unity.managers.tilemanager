@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 using asim.unity.extensions;
-using Asim.Managers.TileManager;
+using asim.unity.managers.tilemanager;
 
 
 public class TileManager_Example : MonoBehaviour
